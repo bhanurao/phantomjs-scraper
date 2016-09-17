@@ -1,0 +1,19 @@
+[
+      {},
+      {
+        "id": 1,
+        "url1": "http://webop.d.berkeleygroup.co.uk/new-homes/london/chiswick/chiswick-gate",
+        "title": "Chiswick Gate - New Homes & Apartments in London | Berkeley",
+        "colourcode": "#6b6b6b",
+        "sections": "featurearticle  ,pricesavailability  ,development  ,siteplan  ,currentphases  ,brochures  ,gallery  ,featurearticle  ,localarea  ,contactus  ,thumbnailfeaturepressreleases  ,",
+        "accordion": 4
+      },
+      {
+        "id": 2,
+        "url1": "http://webop.d.berkeleygroup.co.uk/new-homes/london/surrey-quays/marine-wharf",
+        "title": "Marine Wharf - New Builds | ALL SOLD | Berkeley Group",
+        "colourcode": "#6b6b6b",
+        "sections": "featurearticle   lazyload,gallery   lazyload,localarea   lazyload,",
+        "accordion": 0
+      }
+    ]
